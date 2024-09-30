@@ -1,0 +1,13 @@
+{
+  "bundle.css": "bundle.03ab0.css",
+  "bundle.js": "bundle.7f998.esm.js",
+  "bundle.js.map": "bundle.7f998.esm.js.map",
+  "polyfills.js": "polyfills.af616.esm.js",
+  "polyfills.js.map": "polyfills.af616.esm.js.map",
+  "bundle.03ab0.css.map": "bundle.03ab0.css.map",
+  "sinterwasm.wasm": "fa275435c4d651ef1c7c53fea94bd468.wasm",
+  "sw-esm.js": "sw-esm.js",
+  "sw-esm.js.map": "sw-esm.js.map",
+  "sw.js": "sw.js",
+  "sw.js.map": "sw.js.map"
+}
